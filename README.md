@@ -609,7 +609,10 @@ Additional communication occurred over WhatsApp, and all logs were archived via 
 
 
 Meeting Records:
-Sprint 2 – Daily Scrum Logs (The URL will be added in Sprint 3.)
+Sprint 2 – Daily Scrum Logs
+
+![WhatsApp Image 2025-07-21 at 17 21 23](https://github.com/user-attachments/assets/858db3f2-6d55-47de-bf81-8c007c489204)
+
 
 3. Product Status and System Progress
 By the end of the sprint, several key components of the second version of the system were successfully completed. Substantial progress was achieved in both the system infrastructure and the user-facing components.
@@ -625,6 +628,11 @@ The newsletter template was updated to support segment-based personalization, an
 The speech synthesis engine was replaced with a model capable of producing more human-like voiceovers
 
 The first prototype of the visual knowledge cards was developed
+
+Fetching (GET) operations with FastAPI based in our project:
+
+![WhatsApp Image 2025-07-21 at 17 22 16](https://github.com/user-attachments/assets/0c496458-8f51-4e03-8566-48647cff67ed)
+
 
 4. Sprint Review
 During the Sprint Review meeting, all completed tasks were presented and evaluated by the team. The newly developed modules were tested by all members, and overall functional success was confirmed.
@@ -655,3 +663,8 @@ Event-driven content recommendation
 Mobile compatibility testing
 
 This sprint marked a major transition in the user-facing components of the InsightAI project. The AI architecture became more responsive, the speech module more fluent, and the visual system clearer and more structured. Collectively, these advances significantly contributed to the system’s maturity and overall functionality.
+
+The micro-course creation feature in our product is not yet fully completed, while the AI-powered newsletter generation functionality is demonstrated in the images below.
+
+![ai_newsletter_yzta](https://github.com/user-attachments/assets/537c57d8-35e5-4893-9cf5-6732aaa0fdd4)
+
